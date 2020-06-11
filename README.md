@@ -1,2 +1,3 @@
-# 1776-unknown-text
-Data mining an unknown 1776 data text
+# 1776 unknown text
+
+In this project, I completed data mining and data cleaning to summarise the text data.
